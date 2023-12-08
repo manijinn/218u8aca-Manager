@@ -1,1 +1,1 @@
-# 218u8aca-Manager
+# Processes of Object Oriented Software: Group 13 Small Project
